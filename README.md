@@ -166,9 +166,9 @@ Mise en place d'une notation 'syllabisante' avant l'étape de syllabation :
 - ë : /ə/ final non élidé
 - ι : /j/ non syllabique
 - Et bien plus à découvrir en utilisant le PAM !
+<!-- Permet de gérer les diphtongues, les diérèses et synérèses, l'élision du schwa, etc.-->
 
 Puis position de la coupe syllabe interne : ・
-<!-- Permet de gérer les diphtongues, les diérèses et synérèses, l'élision du schwa, etc.-->
 
 ---
 ### Output du PAM : verbose
